@@ -1,4 +1,4 @@
 # hello-world
 
-It's an experiment, and i want to learn how to program in github.
+It's the first step.
 Thanks!
